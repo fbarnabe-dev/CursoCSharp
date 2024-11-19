@@ -1,0 +1,14 @@
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\bin\Debug\net8.0\SemPPO.exe
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\bin\Debug\net8.0\SemPPO.deps.json
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\bin\Debug\net8.0\SemPPO.runtimeconfig.json
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\bin\Debug\net8.0\SemPPO.dll
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\bin\Debug\net8.0\SemPPO.pdb
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.AssemblyInfoInputs.cache
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.AssemblyInfo.cs
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.dll
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\refint\SemPPO.dll
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.pdb
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\SemPPO.genruntimeconfig.cache
+C:\Users\FELIPE-TI\source\repos\SemPPO\SemPPO\obj\Debug\net8.0\ref\SemPPO.dll

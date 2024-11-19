@@ -1,0 +1,14 @@
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.exe
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.deps.json
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.runtimeconfig.json
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.dll
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.pdb
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfo.cs
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.dll
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\refint\EstruturaWhile.dll
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.pdb
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.genruntimeconfig.cache
+C:\Users\FELIPE-TI\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\ref\EstruturaWhile.dll

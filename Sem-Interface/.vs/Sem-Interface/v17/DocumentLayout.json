@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|d:\\visual studio community\\projetos\\sem-interface\\sem-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|solutionrelative:sem-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|d:\\visual studio community\\projetos\\sem-interface\\sem-interface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|solutionrelative:sem-interface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|d:\\visual studio community\\projetos\\sem-interface\\sem-interface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|solutionrelative:sem-interface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|d:\\visual studio community\\projetos\\sem-interface\\sem-interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|solutionrelative:sem-interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|d:\\visual studio community\\projetos\\sem-interface\\sem-interface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|solutionrelative:sem-interface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|d:\\visual studio community\\projetos\\sem-interface\\sem-interface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC877699-1EBF-41AA-B900-666C5CE1BB40}|Sem-Interface\\Sem_Interface.csproj|solutionrelative:sem-interface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Sem-Interface\\Services\\RentalService.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Services\\RentalService.cs",
+              "RelativeToolTip": "Sem-Interface\\Services\\RentalService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:58:39.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Sem-Interface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Sem-Interface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:56:29.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Sem-Interface\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Sem-Interface\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:45:53.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Sem-Interface\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Sem-Interface\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:40:24.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Sem-Interface\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Sem-Interface\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:38:32.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Sem-Interface\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Sem-Interface\\Sem-Interface\\Program.cs",
+              "RelativeToolTip": "Sem-Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:35:42.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

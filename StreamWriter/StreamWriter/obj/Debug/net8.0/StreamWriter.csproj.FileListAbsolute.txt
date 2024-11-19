@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.exe
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.deps.json
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.runtimeconfig.json
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.dll
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\bin\Debug\net8.0\StreamWriter.pdb
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.dll
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\refint\StreamWriter.dll
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.pdb
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\StreamWriter.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\StreamWriter\StreamWriter\obj\Debug\net8.0\ref\StreamWriter.dll

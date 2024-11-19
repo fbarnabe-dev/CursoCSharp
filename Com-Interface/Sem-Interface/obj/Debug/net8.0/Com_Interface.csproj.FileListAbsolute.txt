@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\bin\Debug\net8.0\Com_Interface.exe
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\bin\Debug\net8.0\Com_Interface.deps.json
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\bin\Debug\net8.0\Com_Interface.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\bin\Debug\net8.0\Com_Interface.dll
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\bin\Debug\net8.0\Com_Interface.pdb
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.dll
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\refint\Com_Interface.dll
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.pdb
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\Com_Interface.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Com-Interface\Sem-Interface\obj\Debug\net8.0\ref\Com_Interface.dll

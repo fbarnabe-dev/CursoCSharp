@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Course\Course\bin\Debug\net8.0\Course.exe
+D:\Visual Studio Community\Projetos\Course\Course\bin\Debug\net8.0\Course.deps.json
+D:\Visual Studio Community\Projetos\Course\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Course\Course\bin\Debug\net8.0\Course.dll
+D:\Visual Studio Community\Projetos\Course\Course\bin\Debug\net8.0\Course.pdb
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.dll
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\refint\Course.dll
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.pdb
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Course\Course\obj\Debug\net8.0\ref\Course.dll

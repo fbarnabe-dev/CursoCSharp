@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\bin\Debug\net8.0\Try_Catch.exe
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\bin\Debug\net8.0\Try_Catch.deps.json
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\bin\Debug\net8.0\Try_Catch.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\bin\Debug\net8.0\Try_Catch.dll
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\bin\Debug\net8.0\Try_Catch.pdb
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.dll
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\refint\Try_Catch.dll
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.pdb
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\Try_Catch.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Try-Catch\Try-Catch\obj\Debug\net8.0\ref\Try_Catch.dll

@@ -1,0 +1,14 @@
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\bin\Debug\net8.0\VetoresPt2.exe
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\bin\Debug\net8.0\VetoresPt2.deps.json
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\bin\Debug\net8.0\VetoresPt2.runtimeconfig.json
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\bin\Debug\net8.0\VetoresPt2.dll
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\bin\Debug\net8.0\VetoresPt2.pdb
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.AssemblyInfoInputs.cache
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.AssemblyInfo.cs
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.dll
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\refint\VetoresPt2.dll
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.pdb
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\VetoresPt2.genruntimeconfig.cache
+C:\Users\FELIPE-TI\source\repos\VetoresPt2\VetoresPt2\obj\Debug\net8.0\ref\VetoresPt2.dll

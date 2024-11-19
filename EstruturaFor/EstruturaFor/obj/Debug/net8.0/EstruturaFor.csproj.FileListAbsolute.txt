@@ -1,0 +1,14 @@
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.exe
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.deps.json
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.runtimeconfig.json
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.dll
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\bin\Debug\net8.0\EstruturaFor.pdb
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.AssemblyInfoInputs.cache
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.AssemblyInfo.cs
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.dll
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\refint\EstruturaFor.dll
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.pdb
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\EstruturaFor.genruntimeconfig.cache
+C:\Users\FELIPE-TI\source\repos\EstruturaFor\EstruturaFor\obj\Debug\net8.0\ref\EstruturaFor.dll

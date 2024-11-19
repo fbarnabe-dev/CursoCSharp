@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\bin\Debug\net8.0\ExHerança2.exe
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\bin\Debug\net8.0\ExHerança2.deps.json
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\bin\Debug\net8.0\ExHerança2.runtimeconfig.json
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\bin\Debug\net8.0\ExHerança2.dll
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\bin\Debug\net8.0\ExHerança2.pdb
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.dll
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\refint\ExHerança2.dll
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.pdb
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ExHerança2.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\ExHerança2\ExHerança2\obj\Debug\net8.0\ref\ExHerança2.dll

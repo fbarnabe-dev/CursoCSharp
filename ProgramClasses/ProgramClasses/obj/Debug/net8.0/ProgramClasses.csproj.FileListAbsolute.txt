@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\bin\Debug\net8.0\ProgramClasses.exe
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\bin\Debug\net8.0\ProgramClasses.deps.json
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\bin\Debug\net8.0\ProgramClasses.runtimeconfig.json
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\bin\Debug\net8.0\ProgramClasses.dll
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\bin\Debug\net8.0\ProgramClasses.pdb
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.dll
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\refint\ProgramClasses.dll
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.pdb
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ProgramClasses.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\ProgramClasses\ProgramClasses\obj\Debug\net8.0\ref\ProgramClasses.dll

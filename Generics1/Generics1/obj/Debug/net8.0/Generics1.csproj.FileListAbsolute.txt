@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Generics1\Generics1\bin\Debug\net8.0\Generics1.exe
+D:\Visual Studio Community\Projetos\Generics1\Generics1\bin\Debug\net8.0\Generics1.deps.json
+D:\Visual Studio Community\Projetos\Generics1\Generics1\bin\Debug\net8.0\Generics1.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Generics1\Generics1\bin\Debug\net8.0\Generics1.dll
+D:\Visual Studio Community\Projetos\Generics1\Generics1\bin\Debug\net8.0\Generics1.pdb
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.dll
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\refint\Generics1.dll
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.pdb
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\Generics1.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Generics1\Generics1\obj\Debug\net8.0\ref\Generics1.dll

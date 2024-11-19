@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FELIPE-TI\\source\\repos\\SemPPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2452B083-700D-4F22-BA1B-421F6EFF38E7}|SemPPO\\SemPPO.csproj|c:\\users\\felipe-ti\\source\\repos\\semppo\\semppo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2452B083-700D-4F22-BA1B-421F6EFF38E7}|SemPPO\\SemPPO.csproj|solutionrelative:semppo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2452B083-700D-4F22-BA1B-421F6EFF38E7}|SemPPO\\SemPPO.csproj|c:\\users\\felipe-ti\\source\\repos\\semppo\\semppo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2452B083-700D-4F22-BA1B-421F6EFF38E7}|SemPPO\\SemPPO.csproj|solutionrelative:semppo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE-TI\\source\\repos\\SemPPO\\SemPPO\\Triangulo.cs",
+              "RelativeDocumentMoniker": "SemPPO\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\FELIPE-TI\\source\\repos\\SemPPO\\SemPPO\\Triangulo.cs",
+              "RelativeToolTip": "SemPPO\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:59:14.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FELIPE-TI\\source\\repos\\SemPPO\\SemPPO\\Program.cs",
+              "RelativeDocumentMoniker": "SemPPO\\Program.cs",
+              "ToolTip": "C:\\Users\\FELIPE-TI\\source\\repos\\SemPPO\\SemPPO\\Program.cs",
+              "RelativeToolTip": "SemPPO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:52:48.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\bin\Debug\net8.0\StreamReader.exe
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\bin\Debug\net8.0\StreamReader.deps.json
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\bin\Debug\net8.0\StreamReader.runtimeconfig.json
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\bin\Debug\net8.0\StreamReader.dll
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\bin\Debug\net8.0\StreamReader.pdb
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.dll
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\refint\StreamReader.dll
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.pdb
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\StreamReader.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\StreamReader\StreamReader\obj\Debug\net8.0\ref\StreamReader.dll

@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Listas\Listas\bin\Debug\net8.0\Listas.exe
+D:\Visual Studio Community\Projetos\Listas\Listas\bin\Debug\net8.0\Listas.deps.json
+D:\Visual Studio Community\Projetos\Listas\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Listas\Listas\bin\Debug\net8.0\Listas.dll
+D:\Visual Studio Community\Projetos\Listas\Listas\bin\Debug\net8.0\Listas.pdb
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.dll
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\refint\Listas.dll
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.pdb
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Listas\Listas\obj\Debug\net8.0\ref\Listas.dll

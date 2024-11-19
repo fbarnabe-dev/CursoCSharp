@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll

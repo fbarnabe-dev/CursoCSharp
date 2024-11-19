@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\bin\Debug\net8.0\Exemplos_Files.exe
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\bin\Debug\net8.0\Exemplos_Files.deps.json
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\bin\Debug\net8.0\Exemplos_Files.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\bin\Debug\net8.0\Exemplos_Files.dll
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\bin\Debug\net8.0\Exemplos_Files.pdb
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.dll
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\refint\Exemplos_Files.dll
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.pdb
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\Exemplos_Files.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Exemplos-Files\Exemplos-Files\obj\Debug\net8.0\ref\Exemplos_Files.dll

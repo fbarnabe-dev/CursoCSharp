@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a2\\exheran\u00E7a2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|solutionrelative:exheran\u00E7a2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a2\\exheran\u00E7a2\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|solutionrelative:exheran\u00E7a2\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a2\\exheran\u00E7a2\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|solutionrelative:exheran\u00E7a2\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a2\\exheran\u00E7a2\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2AD19-D398-492F-911F-C1A5D170F10C}|ExHeran\u00E7a2\\ExHeran\u00E7a2.csproj|solutionrelative:exheran\u00E7a2\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a2\\Entities\\UsedProduct.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExHeran\u00E7a2\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:53:33.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a2\\Entities\\ImportedProduct.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExHeran\u00E7a2\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:51:03.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a2\\Entities\\Product.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Entities\\Product.cs",
+              "RelativeToolTip": "ExHeran\u00E7a2\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:41:04.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Program.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a2\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a2\\ExHeran\u00E7a2\\Program.cs",
+              "RelativeToolTip": "ExHeran\u00E7a2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:39:25.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\bin\Debug\net8.0\Enumerações.exe
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\bin\Debug\net8.0\Enumerações.deps.json
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\bin\Debug\net8.0\Enumerações.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\bin\Debug\net8.0\Enumerações.dll
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\bin\Debug\net8.0\Enumerações.pdb
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.dll
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\refint\Enumerações.dll
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.pdb
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\Enumerações.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Enumerações\Enumerações\obj\Debug\net8.0\ref\Enumerações.dll

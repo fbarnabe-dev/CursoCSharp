@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7444F920-AFF0-4BF2-84A3-F0F2D6AE52C2}|ExHeran\u00E7a\\ExHeran\u00E7a.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a\\exheran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7444F920-AFF0-4BF2-84A3-F0F2D6AE52C2}|ExHeran\u00E7a\\ExHeran\u00E7a.csproj|solutionrelative:exheran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7444F920-AFF0-4BF2-84A3-F0F2D6AE52C2}|ExHeran\u00E7a\\ExHeran\u00E7a.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a\\exheran\u00E7a\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7444F920-AFF0-4BF2-84A3-F0F2D6AE52C2}|ExHeran\u00E7a\\ExHeran\u00E7a.csproj|solutionrelative:exheran\u00E7a\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7444F920-AFF0-4BF2-84A3-F0F2D6AE52C2}|ExHeran\u00E7a\\ExHeran\u00E7a.csproj|d:\\visual studio community\\projetos\\exheran\u00E7a\\exheran\u00E7a\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7444F920-AFF0-4BF2-84A3-F0F2D6AE52C2}|ExHeran\u00E7a\\ExHeran\u00E7a.csproj|solutionrelative:exheran\u00E7a\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\ExHeran\u00E7a\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a\\Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\ExHeran\u00E7a\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "ExHeran\u00E7a\\Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:58:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\ExHeran\u00E7a\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\ExHeran\u00E7a\\Entities\\Employee.cs",
+              "RelativeToolTip": "ExHeran\u00E7a\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA9wBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:54:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\ExHeran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "ExHeran\u00E7a\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\ExHeran\u00E7a\\ExHeran\u00E7a\\Program.cs*",
+              "RelativeToolTip": "ExHeran\u00E7a\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:53:11.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

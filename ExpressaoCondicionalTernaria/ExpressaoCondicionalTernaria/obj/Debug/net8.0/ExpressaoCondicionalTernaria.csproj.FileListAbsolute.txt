@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net8.0\ExpressaoCondicionalTernaria.exe
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net8.0\ExpressaoCondicionalTernaria.deps.json
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net8.0\ExpressaoCondicionalTernaria.runtimeconfig.json
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net8.0\ExpressaoCondicionalTernaria.dll
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net8.0\ExpressaoCondicionalTernaria.pdb
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.dll
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\refint\ExpressaoCondicionalTernaria.dll
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.pdb
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ExpressaoCondicionalTernaria.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net8.0\ref\ExpressaoCondicionalTernaria.dll

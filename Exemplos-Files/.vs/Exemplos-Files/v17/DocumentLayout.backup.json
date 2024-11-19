@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Community\\Projetos\\Exemplos-Files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAE4BC7-6F9F-4B3A-B913-C91E52B5FE08}|Exemplos-Files\\Exemplos_Files.csproj|d:\\visual studio community\\projetos\\exemplos-files\\exemplos-files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAE4BC7-6F9F-4B3A-B913-C91E52B5FE08}|Exemplos-Files\\Exemplos_Files.csproj|solutionrelative:exemplos-files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\Exemplos-Files\\Exemplos-Files\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplos-Files\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\Exemplos-Files\\Exemplos-Files\\Program.cs",
+              "RelativeToolTip": "Exemplos-Files\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:19:07.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

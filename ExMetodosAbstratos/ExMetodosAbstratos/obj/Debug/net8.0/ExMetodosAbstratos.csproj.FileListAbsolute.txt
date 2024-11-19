@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.exe
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.deps.json
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.runtimeconfig.json
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.dll
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\bin\Debug\net8.0\ExMetodosAbstratos.pdb
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.dll
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\refint\ExMetodosAbstratos.dll
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.pdb
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ExMetodosAbstratos.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\ExMetodosAbstratos\ExMetodosAbstratos\obj\Debug\net8.0\ref\ExMetodosAbstratos.dll

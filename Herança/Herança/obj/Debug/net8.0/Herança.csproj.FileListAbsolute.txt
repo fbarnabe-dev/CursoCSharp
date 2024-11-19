@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Herança\Herança\bin\Debug\net8.0\Herança.exe
+D:\Visual Studio Community\Projetos\Herança\Herança\bin\Debug\net8.0\Herança.deps.json
+D:\Visual Studio Community\Projetos\Herança\Herança\bin\Debug\net8.0\Herança.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Herança\Herança\bin\Debug\net8.0\Herança.dll
+D:\Visual Studio Community\Projetos\Herança\Herança\bin\Debug\net8.0\Herança.pdb
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.dll
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\refint\Herança.dll
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.pdb
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\Herança.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Herança\Herança\obj\Debug\net8.0\ref\Herança.dll

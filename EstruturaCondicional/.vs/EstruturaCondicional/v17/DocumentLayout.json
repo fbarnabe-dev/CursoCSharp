@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Community\\Projetos\\EstruturaCondicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00D2C0-5AE5-41E4-BD55-4DDDD1BA13C6}|EstruturaCondicional\\EstruturaCondicional.csproj|d:\\visual studio community\\projetos\\estruturacondicional\\estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00D2C0-5AE5-41E4-BD55-4DDDD1BA13C6}|EstruturaCondicional\\EstruturaCondicional.csproj|solutionrelative:estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Community\\Projetos\\EstruturaCondicional\\EstruturaCondicional\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturaCondicional\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Community\\Projetos\\EstruturaCondicional\\EstruturaCondicional\\Program.cs",
+              "RelativeToolTip": "EstruturaCondicional\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:49:39.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

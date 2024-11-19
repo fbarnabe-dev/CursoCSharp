@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.exe
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.deps.json
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.runtimeconfig.json
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.dll
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.pdb
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.dll
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\refint\EscopoInicializacao.dll
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.pdb
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\ref\EscopoInicializacao.dll

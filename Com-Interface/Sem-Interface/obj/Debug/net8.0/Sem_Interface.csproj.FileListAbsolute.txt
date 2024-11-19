@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\bin\Debug\net8.0\Sem_Interface.exe
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\bin\Debug\net8.0\Sem_Interface.deps.json
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\bin\Debug\net8.0\Sem_Interface.runtimeconfig.json
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\bin\Debug\net8.0\Sem_Interface.dll
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\bin\Debug\net8.0\Sem_Interface.pdb
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.dll
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\refint\Sem_Interface.dll
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.pdb
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\Sem_Interface.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\Sem-Interface\Sem-Interface\obj\Debug\net8.0\ref\Sem_Interface.dll

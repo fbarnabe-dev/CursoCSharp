@@ -1,0 +1,14 @@
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\bin\Debug\net8.0\ExPropostoMetodosAbstratos.exe
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\bin\Debug\net8.0\ExPropostoMetodosAbstratos.deps.json
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\bin\Debug\net8.0\ExPropostoMetodosAbstratos.runtimeconfig.json
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\bin\Debug\net8.0\ExPropostoMetodosAbstratos.dll
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\bin\Debug\net8.0\ExPropostoMetodosAbstratos.pdb
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.AssemblyInfoInputs.cache
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.AssemblyInfo.cs
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.dll
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\refint\ExPropostoMetodosAbstratos.dll
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.pdb
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ExPropostoMetodosAbstratos.genruntimeconfig.cache
+D:\Visual Studio Community\Projetos\ExPropostoMetodosAbstratos\ExPropostoMetodosAbstratos\obj\Debug\net8.0\ref\ExPropostoMetodosAbstratos.dll
